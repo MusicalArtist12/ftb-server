@@ -1,0 +1,3 @@
+[submodule "tools/mcron"]
+	path = tools/mcron
+	url = https://github.com/Tiiffi/mcrcon
