@@ -5001,3 +5001,6 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [16:14:01] [Netty Epoll Server IO #1/INFO] [journeymap]: %minecraftFormattingCLIENT
 [16:14:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: %minecraftFormattingCallMeKovo lost connection: Disconnected
 [16:14:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: %minecraftFormatting§eCallMeKovo§r§e left the game§r
+[16:15:49] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: %minecraftFormattingRcon connection from: /25.2.183.15
+[16:15:56] [RCON Client #4/INFO] [net.minecraft.server.dedicated.DedicatedServer]: %minecraftFormatting[§rRcon§r] §rlove§r §ryou§r §raura§r
+[16:16:00] [RCON Client #4/INFO] [net.minecraft.server.dedicated.DedicatedServer]: %minecraftFormatting[§rRcon§r] §r<3§r
